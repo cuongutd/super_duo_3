@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cuong\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-d882da9013ecaf176796b2cfae2b4e53d71dece2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b5ee0dfa5347a7ef54d3522e3e1e988c3037e091.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-f8515e6644a9997b6be1776bb10aa3c479e3873f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-784e5f765f55812e1faa901ed65008820b23dfdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\glide-3.6.1-eaab5630ebed8e9cbab3edfe404268d0fa05588b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\.gradle\caches\modules-2\files-2.1\com.caverock\androidsvg\1.2.2-beta-1\d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9\androidsvg-1.2.2-beta-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\androidsvg-1.2.2-beta-1-fb10345fdb2bf4a7a77b68c329d4495ec8d0c6ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\src\main\libs\svg-android-1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f7c80e87e9925b691875dc9388869d87515f7d2">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\svg-android-1.1-d2e557376872193bc436c48fddc7f552ae944a5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\Football_Scores-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5ef5dbacf0f0ac10f64fbde4c3c0f2a338649771.jar" />
+    </item>
+
+</items>

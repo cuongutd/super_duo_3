@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cuong\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-d882da9013ecaf176796b2cfae2b4e53d71dece2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-6b32e8ded0a52ecac40e66baee32814e98c82d84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-d33447898f807c84da77f13d5e9b95d4d9211a80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\zbar-c9af2c05945e2d836aa04cf1a5720289e20b6bb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-26bda43fd38e848a9d9c94e1380b61f318d5847c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-299ca7cfad98075b79e0dfe9911f762c72e3bbe2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Cuong\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-81a2663621d0ac3f691bfc4c506135810b5efaab.jar" />
+    </item>
+
+</items>
