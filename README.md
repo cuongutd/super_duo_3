@@ -4,3 +4,4 @@ udacity super duo project
 •	Implemented barcode scanning function for Alexandria app and collection widget for Football Scores app. 
 •	Improved app accessibility by providing content description and RTL layout support.
 Demo:
+https://youtu.be/dc1TB2W6qI8
